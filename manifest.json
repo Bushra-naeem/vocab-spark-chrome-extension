@@ -3,7 +3,9 @@
     "name": "Vocabulary Spark",
     "version": "1.0",
     "description": "Get a new word with its meaning every time!",
-    "permissions": ["storage"],
+    "permissions": [
+        "storage"
+    ],
     "action": {
         "default_popup": "popup.html",
         "default_icon": {

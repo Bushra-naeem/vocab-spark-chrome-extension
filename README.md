@@ -8,6 +8,7 @@ With just a click, this user-friendly tool delivers a new word every time, compl
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Display Snapshot](#display-snapshot)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -33,6 +34,10 @@ Each time you use it, you'll get a word along with its meaning and pronunciation
 - Click the "Get New Word" button to receive a random word and its meaning.
 - To hear the pronunciation of the word, click the "Pronounce" button.
 - Your previously viewed words will be saved and displayed each time you open the extension, so you can revisit them anytime!
+
+## Display Snapshot
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## Technologies Used
 - **HTML**: For structuring the popup interface.

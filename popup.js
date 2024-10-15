@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
         pronounceButton.onclick = function () {
             pronounceWord(word);
         };
-    });
+    });    
 
     async function fetchWord() {
         try {
@@ -84,5 +84,7 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 });
+
+
 
 
