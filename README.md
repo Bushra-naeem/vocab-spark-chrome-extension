@@ -37,7 +37,8 @@ Each time you use it, you'll get a word along with its meaning and pronunciation
 
 ## Display Snapshot
 ![alt text](image-1.png)
-![alt text](image-2.png)
+
+![alt text](image-2.jpeg)
 
 ## Technologies Used
 - **HTML**: For structuring the popup interface.
